@@ -15,14 +15,14 @@ func main(){
 - 📫 如果需要沟通交流请联系我~
 
 
-<h4>我使用的系统环境 </h4>
+<h4>Desktop Environment: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/linux.png" alt=linux width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
-|  最常使用的语言   | Github  start  |
+|  Programming Languages   | Github  start  |
 |  ----  | ----  |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob-Engle)](https://github.com/anuraghazra/github-readme-stats)  | [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=noob-Engle&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) |
 
@@ -40,8 +40,8 @@ func main(){
 #### Projects
 
 
-## 博客
+## notebook
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
 
-#### 访问次数
+#### Number of visits
 ![](https://komarev.com/ghpvc/?username=noob-Engle)
