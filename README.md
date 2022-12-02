@@ -11,10 +11,6 @@ func main(){
   fmt.Println("Welcome to my GitHub")
 }
 ```
-- 👋 一切都介于模仿，超越才能成为大师
-- 👀 业余计算机爱好者
-- 💞️ 我喜欢研究新鲜的玩意
-- 📫 如果需要沟通交流请联系我~
 - i love Cyber security digital security
 
 
