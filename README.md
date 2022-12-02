@@ -11,7 +11,6 @@ func main(){
   fmt.Println("Welcome to my GitHub")
 }
 ```
-- i love Cyber security digital security
 
 
 <h4>Languges I am learning: </h4>
