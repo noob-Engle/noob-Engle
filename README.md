@@ -19,14 +19,6 @@ func main(){
 
 ##### Docker images 🐳
 
-<h4>Skills and Tools: </h4>
-<p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/goland.png" alt=goland width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/vim.png" alt=vim width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/docker.png" alt=docker width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/git.png" alt=git width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
-</p>
 
 #### Current Projects
 https://github.com/noob-Engle/Executing-fileless-scripts
