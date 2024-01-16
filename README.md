@@ -13,17 +13,6 @@ func main(){
 ```
 
 
-<h4>Languges I am learning: </h4>
-<p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/cs.png" alt=csharp width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/go.png" alt=golang width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/rust.png" alt=rust width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/js.png" alt=javascript width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/python.png" alt=python width="60" height="60"/>
-</p>
-
 |  Programming Languages   | Github  start  |
 |  ----  | ----  |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob-Engle)](https://github.com/anuraghazra/github-readme-stats)  | [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=noob-Engle&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) |
