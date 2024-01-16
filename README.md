@@ -24,13 +24,6 @@ func main(){
  <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/python.png" alt=python width="60" height="60"/>
 </p>
 
-<h4>Desktop Environment: </h4>
-<p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/linux.png" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/win10.png" alt=windows10 width="60" height="60"/>
-</p>
-
 |  Programming Languages   | Github  start  |
 |  ----  | ----  |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob-Engle)](https://github.com/anuraghazra/github-readme-stats)  | [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=noob-Engle&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) |
